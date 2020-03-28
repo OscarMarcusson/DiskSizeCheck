@@ -1,0 +1,11 @@
+C:\Users\Oscar Marcusson\source\repos\DiskSizeCheck\DiskSizeCheck\bin\Debug\netcoreapp3.1\DiskSizeCheck.exe
+C:\Users\Oscar Marcusson\source\repos\DiskSizeCheck\DiskSizeCheck\bin\Debug\netcoreapp3.1\DiskSizeCheck.deps.json
+C:\Users\Oscar Marcusson\source\repos\DiskSizeCheck\DiskSizeCheck\bin\Debug\netcoreapp3.1\DiskSizeCheck.runtimeconfig.json
+C:\Users\Oscar Marcusson\source\repos\DiskSizeCheck\DiskSizeCheck\bin\Debug\netcoreapp3.1\DiskSizeCheck.runtimeconfig.dev.json
+C:\Users\Oscar Marcusson\source\repos\DiskSizeCheck\DiskSizeCheck\bin\Debug\netcoreapp3.1\DiskSizeCheck.dll
+C:\Users\Oscar Marcusson\source\repos\DiskSizeCheck\DiskSizeCheck\bin\Debug\netcoreapp3.1\DiskSizeCheck.pdb
+C:\Users\Oscar Marcusson\source\repos\DiskSizeCheck\DiskSizeCheck\obj\Debug\netcoreapp3.1\DiskSizeCheck.csprojAssemblyReference.cache
+C:\Users\Oscar Marcusson\source\repos\DiskSizeCheck\DiskSizeCheck\obj\Debug\netcoreapp3.1\DiskSizeCheck.AssemblyInfoInputs.cache
+C:\Users\Oscar Marcusson\source\repos\DiskSizeCheck\DiskSizeCheck\obj\Debug\netcoreapp3.1\DiskSizeCheck.AssemblyInfo.cs
+C:\Users\Oscar Marcusson\source\repos\DiskSizeCheck\DiskSizeCheck\obj\Debug\netcoreapp3.1\DiskSizeCheck.dll
+C:\Users\Oscar Marcusson\source\repos\DiskSizeCheck\DiskSizeCheck\obj\Debug\netcoreapp3.1\DiskSizeCheck.pdb
